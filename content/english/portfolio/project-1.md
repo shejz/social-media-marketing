@@ -5,7 +5,7 @@ categories:
 date: "2020-05-12T12:14:34+06:00"
 description: This is meta description.
 draft: false
-image: images/portfolio/pivot_table.mp4
+image: images/portfolio/item1.jpg
 project_info:
 - content: John Doe
   icon: fas fa-user
