@@ -4,16 +4,16 @@ custom_class: ""
 custom_css: ""
 service_list:
 - image: images/icons/web-development.png
-  name: Web Development
+  name: Programming
 - image: images/icons/graphic-design.png
-  name: Graphic Design
+  name: Data Visualization
 - image: images/icons/dbms.png
   name: Database Management
 - image: images/icons/software-development.png
-  name: Software Development
+  name: Data Analytics
 - image: images/icons/marketing.png
   name: Digital Marketing
 - image: images/icons/mobile-app.png
-  name: Mobile App Development
+  name: Machine Learning
 title: SERVICES
 ---
