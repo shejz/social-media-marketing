@@ -10,9 +10,10 @@ custom_css: ""
 first_name: Shiela
 last_name: Jimenez
 occupations:
-- Data Analyst
-- Business Intelli
-- Database Manager
+- Data Analytics
+- Data Visualization
+- Data Modeling
+- Data Science
 slider_images:
 - images/slider/slider-1.jpg
 - images/slider/slider-2.jpg
